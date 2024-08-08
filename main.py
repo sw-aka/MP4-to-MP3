@@ -3,7 +3,7 @@ from pydub import AudioSegment
 
 # Define input and output directories
 INPUT_DIRECTORY = 'INPUT_VIDEOS'
-OUTPUT_DIRECTORY = 'OUTPUT_AUDIOS'
+OUTPUT_DIRECTORY = 'OUTPUT_AUDIO'
 
 # Attempt to list files in the input directory
 try:
